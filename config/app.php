@@ -26,6 +26,7 @@ return [
     |
     */
 
+    'key' => env('APP_KEY', 'SomeRandomStringSomeRandomString'),
     'env' => env('APP_ENV', 'production'),
 
     /*
